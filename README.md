@@ -1,13 +1,15 @@
 Ringcoin integration/staging tree
 ================================
 
-http://www.ringcoin.org
 
 Copyright (c) 2009-2014 Bitcoin Developers
 Copyright (c) 2011-2014 Ringcoin Developers
 
 What is Ringcoin?
-----------------
+--------------------------------
+
+If you start worrying, it will be too late! Get ready to win a diamond ring worth 6.5 carats right now!?
+---------------------------------------------------------------------------------------------------------
 
 Ringcoin is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
  - 2.5 ~20 minute block targets
