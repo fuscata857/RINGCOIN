@@ -10,16 +10,24 @@ What is Ringcoin?
 ----------------
 
 Ringcoin is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
- - 2.5 minute block targets
+ - 2.5 ~20 minute block targets
  - subsidy halves in 840k blocks (~4 years)
- - ~84 million total coins
-
+ -  ~7,777,7777total coin
 The rest is the same as Bitcoin.
- - 50 coins per block
- - 2016 blocks to retarget difficulty
+ - 77 coins per block 4 weeks only
+ -  to retarge2870000 coin t difficulty
 
-For more information, as well as an immediately useable, binary version of
-the Ringcoin client sofware, see http://www.ringcoin.org.
+Specially designed 6.5 carat diamond ring event!!!!!
+
+Start time: When the first 1000 node users break through Draw date: Currently undecided. Scheduled to be paid when a specific quantity is mined or purchased on the exchange. (Scheduled to be paid to those who achieve 777777 collected coins) Limited to the first time. Coins purchased from exchanges, not necessarily mined, are recognized as holdings)
+
+This coin is pre-mined and issued in 2 million units for developers and investors.
+
+A beautiful story with our coin!
+
+It will be remembered as a coin of promise to marry a loved one or to be with lovers. Our coin will independently collect and record such stories in the future and remember them as beautiful coins for all lovers and love.
+
+Our coin intentionally contains the most included number 7 in the source code. A special prize is given to those who look at the source code of our coin and guess how many 7s there are!
 
 License
 -------
