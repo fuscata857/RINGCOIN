@@ -21,6 +21,8 @@ Specially designed 6.5 carat diamond ring event!!!!!
 
 Start time: When the first 1000 node users break through Draw date: Currently undecided. Scheduled to be paid when a specific quantity is mined or purchased on the exchange. (Scheduled to be paid to those who achieve 777777 collected coins) Limited to the first time. Coins purchased from exchanges, not necessarily mined, are recognized as holdings)
 
+From now on, the more beautiful your stories become, the busier and more enjoyable our journey will be. We wanted to create a coin that allows us to rediscover our value in countless stories around the world, so our coin was born!
+
 This coin is pre-mined and issued in 2 million units for developers and investors.
 
 A beautiful story with our coin!
