@@ -28,6 +28,16 @@ From now on, the more beautiful your stories become, the busier and more enjoyab
 This coin is pre-mined and issued in 2 million units for developers and investors.
 
 A beautiful story with our coin!
+Our coin will provide a special house for developers. Completely privacy-free, state-of-the-art, and more than you can imagine. If you would like to become a developer, please submit your application form to reikoheo@gmail.com.
+
+resume
+Do not include your age, gender, or personal security number on your resume.
+
+Please submit an essay on how you would like our coin to develop in the future.
+
+Fill out a form that logically states what needs to be developed most urgently and why it is needed.
+
+Please describe your career and detailed project progress in your resume.
 
 It will be remembered as a coin of promise to marry a loved one or to be with lovers. Our coin will independently collect and record such stories in the future and remember them as beautiful coins for all lovers and love.
 After downloading and installing the open source, create a new file in the .ringcoin folder and modify the file name to ringcoin.conf. Enter addnode=119.56.163.13 in the contents, save and restart your wallet to connect to our node! The administrator will stop mining immediately when the first accessor appears, and will not be involved in mining anymore. It will only connect to maintain the node.
