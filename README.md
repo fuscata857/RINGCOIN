@@ -24,7 +24,7 @@ The rest is the same as Bitcoin.
 
 Specially designed 6.5 carat diamond ring event!!!!!
 
-Start time: When the first 1000 node users break through Draw date: Currently undecided. Scheduled to be paid when a specific quantity is mined or purchased on the exchange. (Scheduled to be paid to those who achieve 777777 collected coins) Limited to the first time. Coins purchased from exchanges, not necessarily mined, are recognized as holdings)
+Start time: When the first 1000 node users break through Draw date: Currently undecided. Scheduled to be paid when a specific quantity is mined or purchased on the exchange. (Scheduled to be paid to those who achieve 777777 collected coins or when the block is created Limited to the first time. Coins purchased from exchanges, not necessarily mined, are recognized as holdings)
 The power of our coin will provide you with the highest quality luxury house, a nice car and a luxurious and leisurely life. However, you should look at at least 10 years and invest in this coin. This coin is reserved for 2 million coins to control trading for speculative purposes for short-term investments.
 From now on, the more beautiful your stories become, the busier and more enjoyable our journey will be. We wanted to create a coin that allows us to rediscover our value in countless stories around the world, so our coin was born!
 
