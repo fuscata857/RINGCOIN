@@ -2,7 +2,7 @@ https://www.lingcoin.biz/
 
 Top-notch gift event for mining users only!
 ===========================================
-6.5 carat diamond ring for 100 people! Extravagant gifts for lovers are also waiting!
+6.5 carat diamond ring for people! Extravagant gifts for lovers are also waiting!
 =======================================================================================
 
 
