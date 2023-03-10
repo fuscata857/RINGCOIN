@@ -1,5 +1,8 @@
-Ringcoin integration/staging tree
-================================
+
+Top-notch gift event for mining users only!
+===========================================
+6.5 carat diamond ring for 100 people! Extravagant gifts for lovers are also waiting!
+=======================================================================================
 
 
 Copyright (c) 2009-2014 Bitcoin Developers
