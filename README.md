@@ -48,7 +48,8 @@ Fill out a form that logically states what needs to be developed most urgently a
 Please describe your career and detailed project progress in your resume.
 
 It will be remembered as a coin of promise to marry a loved one or to be with lovers. Our coin will independently collect and record such stories in the future and remember them as beautiful coins for all lovers and love.
-After downloading and installing the open source, create a new file in the .ringcoin folder and modify the file name to ringcoin.conf. Enter addnode=119.56.163.13 in the contents, save and restart your wallet to connect to our node! The administrator will stop mining immediately when the first accessor appears, and will not be involved in mining anymore. It will only connect to maintain the node.
+After downloading and installing the open source, create a new file in the .ringcoin folder and modify the file name to ringcoin.conf. Enter addnode=119.56.162.98
+ in the contents, save and restart your wallet to connect to our node! The administrator will stop mining immediately when the first accessor appears, and will not be involved in mining anymore. It will only connect to maintain the node.
 Our coin intentionally contains the most included number 7 in the source code. A special prize is given to those who look at the source code of our coin and guess how many 7s there are!
 
 License
