@@ -1,4 +1,6 @@
 https://www.lingcoin.biz/
+add node=119.56.163.13 (ringcoin.conf)
+===========================================
 
 Top-notch gift event for mining users only!
 ===========================================
