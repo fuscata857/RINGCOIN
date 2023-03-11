@@ -33,7 +33,7 @@ Start time: When the first 1000 node users break through Draw date: Currently un
 The power of our coin will provide you with the highest quality luxury house, a nice car and a luxurious and leisurely life. However, you should look at at least 10 years and invest in this coin. This coin is reserved for 2 million coins to control trading for speculative purposes for short-term investments.
 From now on, the more beautiful your stories become, the busier and more enjoyable our journey will be. We wanted to create a coin that allows us to rediscover our value in countless stories around the world, so our coin was born!
 
-This coin is pre-mined and issued in 2 million units for developers and investors.
+This coin is pre-mined and issued in 2.8 million units for developers and investors.
 
 A beautiful story with our coin!
 Our coin will provide a special house for developers. Completely privacy-free, state-of-the-art, and more than you can imagine. If you would like to become a developer, please submit your application form to reikoheo@gmail.com.
