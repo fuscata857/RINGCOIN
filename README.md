@@ -25,6 +25,9 @@ The rest is the same as Bitcoin.
  - 77 coins per block 4 weeks only
  -  to retarge2870000 coin t difficulty
 
+If the value of Ecoins ended at $1 or $2 apiece, I wouldn't have even started. However, we have to evolve into a coin that exceeds the value of Bitcoin someday, and such a virtual currency will appear once.
+
+
 Specially designed 6.5 carat diamond ring event!!!!!
 
 Start time: When the first 1000 node users break through Draw date: Currently undecided. Scheduled to be paid when a specific quantity is mined or purchased on the exchange. (Scheduled to be paid to those who achieve 777777 collected coins or when the block is created Limited to the first time. Coins purchased from exchanges, not necessarily mined, are recognized as holdings)
