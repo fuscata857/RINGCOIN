@@ -36,7 +36,7 @@ Prevention of price fluctuations through self-purchase and distribution volume c
 Discovering and investing in the aerospace industry and space companies
 Discovery of future strategic companies and technology improvement of virtual currency
 The pre-issuance quantity is about 4 million, and it is not for personal use.
-
+This coin is designed to control the initial issuance so that a small number of users cannot monopolize too many coins in the beginning.
 
 Specially designed 6.5 carat diamond ring event!!!!!
 
