@@ -1,4 +1,4 @@
-// Copyright (c) 2009-2010 HEO SN
+// Copyright (c) 2009-2010 Satoshi Nakamoto
 // Copyright (c) 2009-2014 The Bitcoin developers
 // Distributed under the MIT/X11 software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
@@ -19,7 +19,7 @@ using namespace std;
 using namespace boost;
 
 #if defined(NDEBUG)
-# error "Ringcoin cannot be compiled without assertions."
+# error "Ringicoin cannot be compiled without assertions."
 #endif
 
 //
@@ -35,8 +35,8 @@ CTxMemPool mempool;
 unsigned int nTransactionsUpdated = 0;
 
 map<uint256, CBlockIndex*> mapBlockIndex;
-uint256 hashGenesisBlock("0xa6829331663455d962330b264c76efda911582dc9fa2c59da889d177e0d2dc19");
-static CBigNum bnProofOfWorkLimit(~uint256(0) >> 20); // Ringcoin: starting difficulty is 1 / 2^12
+uint256 hashGenesisBlock("0x04d40be7255db207fcdb1c124573804899ae513ee75ccf2424c578fceecac8d4");
+static CBigNum bnProofOfWorkLimit(~uint256(0) >> 20); // Ringicoin: starting difficulty is 1 / 2^12
 CBlockIndex* pindexGenesisBlock = NULL;
 int nBestHeight = -1;
 uint256 nBestChainWork = 0;
@@ -52,9 +52,9 @@ bool fBenchmark = false;
 bool fTxIndex = false;
 unsigned int nCoinCacheSize = 5000;
 
-/** Fees smaller than this (in Heo) are considered zero fee (for transaction creation) */
+/** Fees smaller than this (in satoshi) are considered zero fee (for transaction creation) */
 int64 CTransaction::nMinTxFee = 100000;
-/** Fees smaller than this (in Heo) are considered zero fee (for relaying) */
+/** Fees smaller than this (in satoshi) are considered zero fee (for relaying) */
 int64 CTransaction::nMinRelayTxFee = 100000;
 
 CMedianFilter<int> cPeerBlockCounts(8, 0); // Amount of blocks that other nodes claim to have
@@ -68,7 +68,7 @@ map<uint256, set<uint256> > mapOrphanTransactionsByPrev;
 // Constant stuff for coinbase transactions we create:
 CScript COINBASE_FLAGS;
 
-const string strMessageMagic = "Ringcoin Signed Message:\n";
+const string strMessageMagic = "Ringicoin Signed Message:\n";
 
 double dHashesPerSec = 0.0;
 int64 nHPSTimerStart = 0;
@@ -362,7 +362,7 @@ unsigned int LimitOrphanTxSize(unsigned int nMaxOrphans)
 
 bool CTxOut::IsDust() const
 {
-    // Ringcoin: IsDust() detection disabled, allows any valid dust to be relayed.
+    // Ringicoin: IsDust() detection disabled, allows any valid dust to be relayed.
     // The fees imposed on each dust txo is considered sufficient spam deterrant. 
     return false;
 }
@@ -623,7 +623,7 @@ int64 CTransaction::GetMinFee(unsigned int nBlockSize, bool fAllowFree,
             nMinFee = 0;
     }
 
-    // Ringcoin
+    // Ringicoin
     // To limit dust spam, add nBaseFee for each output less than DUST_SOFT_LIMIT
     BOOST_FOREACH(const CTxOut& txout, vout)
         if (txout.nValue < DUST_SOFT_LIMIT)
@@ -1087,16 +1087,16 @@ uint256 static GetOrphanRoot(const CBlockHeader* pblock)
 
 int64 static GetBlockValue(int nHeight, int64 nFees)
 {
-    int64 nSubsidy = 7.777 * COIN;
+    int64 nSubsidy = 7.777* COIN;
 
     // Subsidy is cut in half every 840000 blocks, which will occur approximately every 4 years
-    nSubsidy >>= (nHeight / 7777777); // Ringcoin: 840k blocks in ~4 years
+    nSubsidy >>= (nHeight / 7777777); // Ringicoin: 840k blocks in ~4 years
 
     return nSubsidy + nFees;
 }
 
-static const int64 nTargetTimespan = 35 * 24 * 60 * 60; // Ringcoin: 20 days
-static const int64 nTargetSpacing = 20 * 60; // Ringcoin: 20 minutes
+static const int64 nTargetTimespan = 15 * 24 * 60 * 60; // Ringicoin: 15 days
+static const int64 nTargetSpacing = 20 * 60; // Ringicoin: 20 minutes
 static const int64 nInterval = nTargetTimespan / nTargetSpacing;
 
 //
@@ -1155,7 +1155,7 @@ unsigned int static GetNextWorkRequired(const CBlockIndex* pindexLast, const CBl
         return pindexLast->nBits;
     }
 
-    // Ringcoin: This fixes an issue where a 51% attack can change difficulty at will.
+    // Ringicoin: This fixes an issue where a 51% attack can change difficulty at will.
     // Go back the full period unless it's the first retarget after genesis. Code courtesy of Art Forz
     int blockstogoback = nInterval-1;
     if ((pindexLast->nHeight+1) != nInterval)
@@ -2102,7 +2102,7 @@ bool CBlock::CheckBlock(CValidationState &state, bool fCheckPOW, bool fCheckMerk
     if (vtx.empty() || vtx.size() > MAX_BLOCK_SIZE || ::GetSerializeSize(*this, SER_NETWORK, PROTOCOL_VERSION) > MAX_BLOCK_SIZE)
         return state.DoS(100, error("CheckBlock() : size limits failed"));
 
-    // Ringcoin: Special short-term limits to avoid 10,000 BDB lock limit:
+    // Ringicoin: Special short-term limits to avoid 10,000 BDB lock limit:
     if (GetBlockTime() < 1376568000)  // stop enforcing 15 August 2013 00:00:00
     {
         // Rule is: #unique txids referenced <= 4,500
@@ -2742,18 +2742,18 @@ bool LoadBlockIndex()
 {
     if (fTestNet)
     {
-        pchMessageStart[0] = 0xf7;
-        pchMessageStart[1] = 0xc7;
-        pchMessageStart[2] = 0xb7;
-        pchMessageStart[3] = 0xd7;
-        hashGenesisBlock = uint256("0xcca1d36dcfb372c950359caf1388a7f2e85610af0bf661ada4f5702be6a0f4a4");
+        pchMessageStart[0] = 0x77;
+        pchMessageStart[1] = 0x77;
+        pchMessageStart[2] = 0x77;
+        pchMessageStart[3] = 0x77;
+        hashGenesisBlock = uint256("0x443935d876624b4339876871485599992c2857ef624fa186f7ae7c6237330ba9");
     }
 
     //
     // Load block index from databases
     //
     if (!fReindex && !LoadBlockIndexDB())
-        return false;
+        return true;
 
     return true;
 }
@@ -2779,7 +2779,7 @@ bool InitBlockIndex() {
         //   vMerkleTree: 97ddfbbae6
 
         // Genesis block
-        const char* pszTimestamp = "this coin is will be your dream. you must checi this message always";
+        const char* pszTimestamp = "this coin is will be your dream wellcome to our coin world";
         CTransaction txNew;
         txNew.vin.resize(1);
         txNew.vout.resize(1);
@@ -2791,18 +2791,16 @@ bool InitBlockIndex() {
         block.hashPrevBlock = 0;
         block.hashMerkleRoot = block.BuildMerkleTree();
         block.nVersion = 1;
-        block.nTime    = 1678199139;
+        block.nTime    = 1678607756;
         block.nBits    = 0x1e0ffff0;
-        block.nNonce   = 2085560846;
+        block.nNonce   = 2085435370;
 
         if (fTestNet)
         {
-            block.nTime    = 1678199117;
-            block.nNonce   = 388539393;
+            block.nTime    = 1678607740;
+            block.nNonce   = 388785661;
         }
-
-	//addline
-
+	///// addlineheo
 if (true && block.GetHash() != hashGenesisBlock)
         {
             printf("Searching for genesis block...\n");
@@ -2845,13 +2843,14 @@ if (true && block.GetHash() != hashGenesisBlock)
             printf("block.nNonce = %u \n", block.nNonce);
             printf("block.GetHash = %s\n", block.GetHash().ToString().c_str());
         }
-	//endadd
+	////addlineendheo
+
         //// debug print
         uint256 hash = block.GetHash();
         printf("%s\n", hash.ToString().c_str());
         printf("%s\n", hashGenesisBlock.ToString().c_str());
         printf("%s\n", block.hashMerkleRoot.ToString().c_str());
-        assert(block.hashMerkleRoot == uint256("0x860f95733c4b3305838c0daad47f36123491a09bbd71b3b44c02b59e4a2029d4"));
+        assert(block.hashMerkleRoot == uint256("0xf21ba6645acfcc75ed0dcb8b9589b0966a9b31ee66b4a95fccb3e5e47e94a570"));
         block.print();
         assert(hash == hashGenesisBlock);
 
@@ -3124,7 +3123,7 @@ bool static AlreadyHave(const CInv& inv)
 // The message start string is designed to be unlikely to occur in normal data.
 // The characters are rarely used upper ASCII, not valid as UTF-8, and produce
 // a large 4-byte int at any alignment.
-unsigned char pchMessageStart[4] = { 0xf7, 0xc7, 0xb7, 0xd7 }; // Ringcoin: increase each by adding 2 to bitcoin's value.
+unsigned char pchMessageStart[4] = { 0x77, 0x77, 0x77, 0x77 }; // Ringicoin: increase each by adding 2 to bitcoin's value.
 
 
 void static ProcessGetData(CNode* pfrom)
@@ -4174,7 +4173,7 @@ bool SendMessages(CNode* pto, bool fSendTrickle)
 
 //////////////////////////////////////////////////////////////////////////////
 //
-// RingcoinMiner
+// RingicoinMiner
 //
 
 int static FormatHashBlocks(void* pbuffer, unsigned int len)
@@ -4587,7 +4586,7 @@ bool CheckWork(CBlock* pblock, CWallet& wallet, CReserveKey& reservekey)
         return false;
 
     //// debug print
-    printf("RingcoinMiner:\n");
+    printf("RingicoinMiner:\n");
     printf("proof-of-work found  \n  hash: %s  \ntarget: %s\n", hash.GetHex().c_str(), hashTarget.GetHex().c_str());
     pblock->print();
     printf("generated %s\n", FormatMoney(pblock->vtx[0].vout[0].nValue).c_str());
@@ -4596,7 +4595,7 @@ bool CheckWork(CBlock* pblock, CWallet& wallet, CReserveKey& reservekey)
     {
         LOCK(cs_main);
         if (pblock->hashPrevBlock != hashBestChain)
-            return error("RingcoinMiner : generated block is stale");
+            return error("RingicoinMiner : generated block is stale");
 
         // Remove key from key pool
         reservekey.KeepKey();
@@ -4610,15 +4609,15 @@ bool CheckWork(CBlock* pblock, CWallet& wallet, CReserveKey& reservekey)
         // Process this block the same as if we had received it from another node
         CValidationState state;
         if (!ProcessBlock(state, NULL, pblock))
-            return error("RingcoinMiner : ProcessBlock, block not accepted");
+            return error("RingicoinMiner : ProcessBlock, block not accepted");
     }
 
     return true;
 }
 
-void static RingcoinMiner(CWallet *pwallet)
+void static RingicoinMiner(CWallet *pwallet)
 {
-    printf("RingcoinMiner started\n");
+    printf("RingicoinMiner started\n");
     SetThreadPriority(THREAD_PRIORITY_LOWEST);
     RenameThread("ringcoin-miner");
 
@@ -4642,7 +4641,7 @@ void static RingcoinMiner(CWallet *pwallet)
         CBlock *pblock = &pblocktemplate->block;
         IncrementExtraNonce(pblock, pindexPrev, nExtraNonce);
 
-        printf("Running RingcoinMiner with %"PRIszu" transactions in block (%u bytes)\n", pblock->vtx.size(),
+        printf("Running RingicoinMiner with %"PRIszu" transactions in block (%u bytes)\n", pblock->vtx.size(),
                ::GetSerializeSize(*pblock, SER_NETWORK, PROTOCOL_VERSION));
 
         //
@@ -4741,7 +4740,7 @@ void static RingcoinMiner(CWallet *pwallet)
     } }
     catch (boost::thread_interrupted)
     {
-        printf("RingcoinMiner terminated\n");
+        printf("RingicoinMiner terminated\n");
         throw;
     }
 }
@@ -4766,7 +4765,7 @@ void GenerateBitcoins(bool fGenerate, CWallet* pwallet)
 
     minerThreads = new boost::thread_group();
     for (int i = 0; i < nThreads; i++)
-        minerThreads->create_thread(boost::bind(&RingcoinMiner, pwallet));
+        minerThreads->create_thread(boost::bind(&RingicoinMiner, pwallet));
 }
 
 // Amount compression:
