@@ -46,6 +46,7 @@ The power of our coin will provide you with the highest quality luxury house, a 
 From now on, the more beautiful your stories become, the busier and more enjoyable our journey will be. We wanted to create a coin that allows us to rediscover our value in countless stories around the world, so our coin was born!
 
 This coin is pre-mined and issued in 2.8 million units for developers and investors.
+The remaining coins are held for the purpose of self-recovery and commercial investment to return the profits to coin holders, and personal use is strictly restricted. In addition, usage history can be tracked and monitored by anyone, even for just one coin.
 
 A beautiful story with our coin!
 Our coin will provide a special house for developers. Completely privacy-free, state-of-the-art, and more than you can imagine. If you would like to become a developer, please submit your application form to reikoheo@gmail.com.
