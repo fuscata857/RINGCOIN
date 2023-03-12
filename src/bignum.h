@@ -1,4 +1,4 @@
-// Copyright (c) 2009-2010 HEO SN
+// Copyright (c) 2009-2010 Satoshi Nakamoto
 // Copyright (c) 2009-2012 The Bitcoin developers
 // Distributed under the MIT/X11 software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
@@ -273,7 +273,7 @@ public:
     // Bit number 24 (0x800000) represents the sign of N.
     // N = (-1^sign) * mantissa * 256^(exponent-3)
     //
-    // HEO's original implementation used BN_bn2mpi() and BN_mpi2bn().
+    // Satoshi's original implementation used BN_bn2mpi() and BN_mpi2bn().
     // MPI uses the most significant bit of the first byte as sign.
     // Thus 0x1234560000 is compact (0x05123456)
     // and  0xc0de000000 is compact (0x0600c0de)
