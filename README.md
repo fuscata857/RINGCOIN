@@ -26,7 +26,7 @@ The rest is the same as Bitcoin.
  These coins are intentionally issued with lower denominations to prove that even lower denominations can have value.
  -  to retarge2870000 coin t difficultyThis coin is designed so that anyone can mine it with a computer equipped with an environment where vm ware can be installed or a virtual box can be installed.In other words, anyone can mine even if the computer's performance is low.This coin is guaranteed to be transparent. The function for anonymous transactions is not scheduled to be updated in this coin.This coin is guaranteed to be transparent. The function for anonymous transactions is not scheduled to be updated in this coin.If the value of Ecocoin is likely to decrease, it will be excluded from discussion no matter how democratic the process is.
  This coin is currently exempt from government or tax tracking. However, if your coin is listed on an exchange, chances are it will give you a reason to spy on you.
- This coin will be neutral against potentially criminal anonymous transactions. However, all responsibilities for transactions that may be inherently subject to surveillance lie with the parties to the transaction.
+ This coin will be neutral against potentially criminal anonymous transactions. However, all responsibilities for transactions that may be inherently subject to surveillance lie with the parties to the transaction.This coin can be used for drugs, sex and crime, but it will be monitored and it will be conducted under the supervision of government agencies. Although the coin itself has no such function, you should keep in mind that using it for any purpose is at your own risk.
  
  
 Blocks are being created every day. It is always connected to the node and anyone can participate.
