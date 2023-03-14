@@ -27,6 +27,7 @@ The rest is the same as Bitcoin.
  In addition to the coins pre-mined by the manager, if you mine 10 million, these coins will all be self-purchased at $100 each.
  These coins are designed to be linked to 100 USD each, and currently you can receive 770 USD if you succeed in mining once.
  It doesn't mention that it's possible. If 10 million coins are mined by customers and users, the minimum price of this coin is unconditionally fixed at $100 per coin.
+ Based on the country where the most coins are mined, recovery will start first, and a separate team will be established to recover these coins.
  
  -  to retarge2870000 coin t difficultyThis coin is designed so that anyone can mine it with a computer equipped with an environment where vm ware can be installed or a virtual box can be installed.In other words, anyone can mine even if the computer's performance is low.This coin is guaranteed to be transparent. The function for anonymous transactions is not scheduled to be updated in this coin.This coin is guaranteed to be transparent. The function for anonymous transactions is not scheduled to be updated in this coin.If the value of Ecocoin is likely to decrease, it will be excluded from discussion no matter how democratic the process is.
  This coin is currently exempt from government or tax tracking. However, if your coin is listed on an exchange, chances are it will give you a reason to spy on you.
