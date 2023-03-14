@@ -4,8 +4,9 @@ add node=119.56.163.13 (ringcoin.conf)
 
 Self-pricing was selected at $1000 each! From the point when 10 million are mined by users and customers, the price of this coin is fixed at $1000 each!Self-pricing was selected at $1000 each! From the point when 10 million are mined by users and customers, the price of this coin is fixed at $100 per coin! Of course, this is the minimum price, not the maximum price.
 =======================================================================================================================================================================
-
-Top-notch gift event for mining users only!
+If this coin is registered on an exchange, 100,000 coins will be provided to the first 10 exchanges.
+=====================================================================================================
+Top-notch gift event for mining users only!!
 ===========================================
 6.5 carat diamond ring for people! Extravagant gifts for lovers are also waiting!
 =======================================================================================
@@ -30,7 +31,9 @@ The rest is the same as Bitcoin.
  DO NOT EXCHANGE THIS COIN FOR PIZZA! We give you pizza! If anyone connects to a node and 48 hours pass, we will give you a weekly pizza voucher through a lottery!
  In addition to the coins pre-mined by the manager, if you mine 10 million, these coins will all be self-purchased at $1000 each.
  These coins are designed to be linked to 1000 USD each, and currently you can receive 7700 USD if you succeed in mining once.
- It doesn't mention that it's possible. If 10 million coins are mined by customers and users, the minimum price of this coin is unconditionally fixed at $1000 per coin.
+ It doesn't mention that it's possible. If 10 million coins are mined by customers and users, the minimum price of this coin is unconditionally fixed at $1000 per coin.All volumes circulating on the exchange are excluded from all events based on fair procedures.
+ 
+ 
  Based on the country where the most coins are mined, recovery will start first, and a separate team will be established to recover these coins.
  Even if less than 10 million are mined, trading is possible, but the coin will have to be registered on the exchange. Individuals can build exchanges. A separate recovery management team has been established to start its own recovery process based on the country that has mined the most coins out of 10 million coins.
  Pizza, laptops, refrigerators, and 86-inch giant TVs are given to anyone through a lottery. A special opportunity only for holders of this coin!
@@ -38,7 +41,7 @@ The rest is the same as Bitcoin.
  However, I have not seen a case where taxes are levied on meals such as pizza and chicken, and they can be paid by check or USD depending on the country.
  If you leave a proof of your first transaction, we will give you a $500 bonus! Use this coin for trading and take a picture of the authentication shot! A $500 cash payment will be made to the sender of the mail that is credited with the first transaction.
  Participate in various transactions with this coin. In any transaction, $100 will be paid in cash if it is confirmed as the first transaction. For example, the first house transaction using this coin, the first pizza price calculation using this coin, the first flight ticket payment using this coin, etc. All those who successfully make their first transaction with this coin will receive $100 in cash immediately. The payment method is PayPal, or remittance through Neteller, and there is no tax or utility charge.
- Try to mine 10,000 of these coins! A variety of products such as limited edition Zippo lighters and special commemorative coins designed with coin images will be given to those who successfully mine 10,000 coins!
+ Try to mine 10,000 of these coins! A variety of products such as limited edition Zippo lighters and special commemorative coins designed with coin images will be given to those who successfully mine 10,000 coin
  
  -  to retarge 7,777,777 coin t difficultyThis coin is designed so that anyone can mine it with a computer equipped with an environment where vm ware can be installed or a virtual box can be installed.In other words, anyone can mine even if the computer's performance is low.This coin is guaranteed to be transparent. The function for anonymous transactions is not scheduled to be updated in this coin.This coin is guaranteed to be transparent. The function for anonymous transactions is not scheduled to be updated in this coin.If the value of thiscocoin is likely to decrease, it will be excluded from discussion no matter how democratic the process is.
  This coin is currently exempt from government or tax tracking. However, if your coin is listed on an exchange, chances are it will give you a reason to spy on you.
