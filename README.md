@@ -2,6 +2,9 @@ https://www.lingcoin.biz/
 add node=119.56.163.13 (ringcoin.conf)
 ===========================================
 
+Self-pricing was selected at $100 each! From the point when 10 million are mined by users and customers, the price of this coin is fixed at $100 each!Self-pricing was selected at $100 each! From the point when 10 million are mined by users and customers, the price of this coin is fixed at $100 per coin! Of course, this is the minimum price, not the maximum price.
+=======================================================================================================================================================================
+
 Top-notch gift event for mining users only!
 ===========================================
 6.5 carat diamond ring for people! Extravagant gifts for lovers are also waiting!
