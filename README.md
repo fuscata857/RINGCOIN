@@ -74,6 +74,7 @@ Discovering and investing in the aerospace industry and space companies
 Discovery of future strategic companies and technology improvement of virtual currency
 The pre-issuance quantity is about 4 million, and it is not for personal use.
 This coin is designed to control the initial issuance so that a small number of users cannot monopolize too many coins in the beginning.
+Only coins that are connected to the designated node and issued in accordance with the regulations are recognized as the number of purchases. Exchange-issued volumes are distributed on the premise that they are held for at least 3 years.
 
 Specially designed 6.5 carat diamond ring event!!!!!
 
