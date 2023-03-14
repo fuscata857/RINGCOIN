@@ -2,7 +2,7 @@ https://www.lingcoin.biz/
 add node=119.56.163.13 (ringcoin.conf)
 ===========================================
 
-Self-pricing was selected at $100 each! From the point when 10 million are mined by users and customers, the price of this coin is fixed at $100 each!Self-pricing was selected at $100 each! From the point when 10 million are mined by users and customers, the price of this coin is fixed at $100 per coin! Of course, this is the minimum price, not the maximum price.
+Self-pricing was selected at $1000 each! From the point when 10 million are mined by users and customers, the price of this coin is fixed at $1000 each!Self-pricing was selected at $100 each! From the point when 10 million are mined by users and customers, the price of this coin is fixed at $100 per coin! Of course, this is the minimum price, not the maximum price.
 =======================================================================================================================================================================
 
 Top-notch gift event for mining users only!
@@ -28,9 +28,9 @@ The rest is the same as Bitcoin.
  - 7.777coins per block
  These coins are intentionally issued with lower denominations to prove that even lower denominations can have value.
  DO NOT EXCHANGE THIS COIN FOR PIZZA! We give you pizza! If anyone connects to a node and 48 hours pass, we will give you a weekly pizza voucher through a lottery!
- In addition to the coins pre-mined by the manager, if you mine 10 million, these coins will all be self-purchased at $100 each.
- These coins are designed to be linked to 100 USD each, and currently you can receive 770 USD if you succeed in mining once.
- It doesn't mention that it's possible. If 10 million coins are mined by customers and users, the minimum price of this coin is unconditionally fixed at $100 per coin.
+ In addition to the coins pre-mined by the manager, if you mine 10 million, these coins will all be self-purchased at $1000 each.
+ These coins are designed to be linked to 100 USD each, and currently you can receive 7700 USD if you succeed in mining once.
+ It doesn't mention that it's possible. If 10 million coins are mined by customers and users, the minimum price of this coin is unconditionally fixed at $1000 per coin.
  Based on the country where the most coins are mined, recovery will start first, and a separate team will be established to recover these coins.
  Even if less than 10 million are mined, trading is possible, but the coin will have to be registered on the exchange. Individuals can build exchanges. A separate recovery management team has been established to start its own recovery process based on the country that has mined the most coins out of 10 million coins.
  Pizza, laptops, refrigerators, and 86-inch giant TVs are given to anyone through a lottery. A special opportunity only for holders of this coin!
