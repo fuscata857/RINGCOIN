@@ -36,7 +36,7 @@ The rest is the same as Bitcoin.
  Pizza, laptops, refrigerators, and 86-inch giant TVs are given to anyone through a lottery. A special opportunity only for holders of this coin!
  This event is a special event planned to activate mining, and please refer to the country-specific guidelines for taxes and public charges for products.
  However, I have not seen a case where taxes are levied on meals such as pizza and chicken, and they can be paid by check or USD depending on the country.
- 
+ If you leave a proof of your first transaction, we will give you a $500 bonus! Use this coin for trading and take a picture of the authentication shot! A $500 cash payment will be made to the sender of the mail that is credited with the first transaction.
  
  
  -  to retarge 7,777,777 coin t difficultyThis coin is designed so that anyone can mine it with a computer equipped with an environment where vm ware can be installed or a virtual box can be installed.In other words, anyone can mine even if the computer's performance is low.This coin is guaranteed to be transparent. The function for anonymous transactions is not scheduled to be updated in this coin.This coin is guaranteed to be transparent. The function for anonymous transactions is not scheduled to be updated in this coin.If the value of Ecocoin is likely to decrease, it will be excluded from discussion no matter how democratic the process is.
