@@ -100,7 +100,7 @@ Our coin intentionally contains the most included number 7 in the source code. A
 
 
 Guidance on payment rules
- The transaction must not be due to fraud or intentional concealment. The detailed payment history must be stored as a video or photo and recognized as a normal transaction. Payment after reviewing whether the payment fact is false or manipulated. If confirmed as true after review, a separate Hall of Fame is created on the coin main page and permanently preserved.
+ The transaction must not be due to fraud or intentional concealment. The detailed payment history must be stored as a video or photo and recognized as a normal transaction. Payment after reviewing whether the payment fact is false or manipulated. If confirmed as true after review, a separate Hall of Fame is created on the coin main page and permanently preserved.There must be no manipulation in the transaction history, and transfer records must be left to prove the transaction.
 
 
 
