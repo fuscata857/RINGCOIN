@@ -32,7 +32,9 @@ The rest is the same as Bitcoin.
  In addition to the coins pre-mined by the manager, if you mine 10 million, these coins will all be self-purchased at $1000 each.
  These coins are designed to be linked to 1000 USD each, and currently you can receive 7700 USD if you succeed in mining once.
  It doesn't mention that it's possible. If 10 million coins are mined by customers and users, the minimum price of this coin is unconditionally fixed at $1000 per coin.All volumes circulating on the exchange are excluded from all events based on fair procedures.
- 
+ Our coin can achieve its goal faster as more users access it.
+It would be very difficult to achieve our goal if we monopolized our coin by accident.
+Keep in mind that in order to achieve your goals together, you will need to gather more colleagues and build a more stable network and it will work! Additional coins will be paid to public relations ambassadors and referrals who promote this coin!
  
  Based on the country where the most coins are mined, recovery will start first, and a separate team will be established to recover these coins.
  Even if less than 10 million are mined, trading is possible, but the coin will have to be registered on the exchange. Individuals can build exchanges. A separate recovery management team has been established to start its own recovery process based on the country that has mined the most coins out of 10 million coins.
