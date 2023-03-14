@@ -29,7 +29,7 @@ The rest is the same as Bitcoin.
  These coins are intentionally issued with lower denominations to prove that even lower denominations can have value.
  DO NOT EXCHANGE THIS COIN FOR PIZZA! We give you pizza! If anyone connects to a node and 48 hours pass, we will give you a weekly pizza voucher through a lottery!
  In addition to the coins pre-mined by the manager, if you mine 10 million, these coins will all be self-purchased at $1000 each.
- These coins are designed to be linked to 100 USD each, and currently you can receive 7700 USD if you succeed in mining once.
+ These coins are designed to be linked to 1000 USD each, and currently you can receive 7700 USD if you succeed in mining once.
  It doesn't mention that it's possible. If 10 million coins are mined by customers and users, the minimum price of this coin is unconditionally fixed at $1000 per coin.
  Based on the country where the most coins are mined, recovery will start first, and a separate team will be established to recover these coins.
  Even if less than 10 million are mined, trading is possible, but the coin will have to be registered on the exchange. Individuals can build exchanges. A separate recovery management team has been established to start its own recovery process based on the country that has mined the most coins out of 10 million coins.
