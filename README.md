@@ -24,6 +24,10 @@ Ringcoin is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
 The rest is the same as Bitcoin.
  - 7.777coins per block
  These coins are intentionally issued with lower denominations to prove that even lower denominations can have value.
+ In addition to the coins pre-mined by the manager, if you mine 10 million, these coins will all be self-purchased at $100 each.
+ These coins are designed to be linked to 100 USD each, and currently you can receive 770 USD if you succeed in mining once.
+ It doesn't mention that it's possible. If 10 million coins are mined by customers and users, the minimum price of this coin is unconditionally fixed at $100 per coin.
+ 
  -  to retarge2870000 coin t difficultyThis coin is designed so that anyone can mine it with a computer equipped with an environment where vm ware can be installed or a virtual box can be installed.In other words, anyone can mine even if the computer's performance is low.This coin is guaranteed to be transparent. The function for anonymous transactions is not scheduled to be updated in this coin.This coin is guaranteed to be transparent. The function for anonymous transactions is not scheduled to be updated in this coin.If the value of Ecocoin is likely to decrease, it will be excluded from discussion no matter how democratic the process is.
  This coin is currently exempt from government or tax tracking. However, if your coin is listed on an exchange, chances are it will give you a reason to spy on you.
  This coin will be neutral against potentially criminal anonymous transactions. However, all responsibilities for transactions that may be inherently subject to surveillance lie with the parties to the transaction.This coin can be used for drugs, sex and crime, but it will be monitored and it will be conducted under the supervision of government agencies. Although the coin itself has no such function, you should keep in mind that using it for any purpose is at your own risk.
