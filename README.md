@@ -36,6 +36,10 @@ The rest is the same as Bitcoin.
  Our coin can achieve its goal faster as more users access it.
 It would be very difficult to achieve our goal if we monopolized our coin by accident.
 Keep in mind that in order to achieve your goals together, you will need to gather more colleagues and build a more stable network and it will work! Additional coins will be paid to public relations ambassadors and referrals who promote this coin!
+ There are investors who have promised to buy, and a mining environment that guarantees stable profits is also created. In Woori Coin, a supercomputer with hundreds of its own nodes or a combination of many nodes with excellent performance does not interfere with users' mining. Due to the very low mining quantity and short half-life, our coin is born with aristocratic value unlike other low-quality virtual currencies.
+ Now is the time to use your power, one by one. Remember that all nodes have the right to be respected and have the right to succeed in mining!
+ 
+ 
  
  Based on the country where the most coins are mined, recovery will start first, and a separate team will be established to recover these coins.
  Even if less than 10 million are mined, trading is possible, but the coin will have to be registered on the exchange. Individuals can build exchanges. A separate recovery management team has been established to start its own recovery process based on the country that has mined the most coins out of 10 million coins.
