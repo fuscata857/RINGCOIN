@@ -39,7 +39,7 @@ Keep in mind that in order to achieve your goals together, you will need to gath
  There are investors who have promised to buy, and a mining environment that guarantees stable profits is also created. In Woori Coin, a supercomputer with hundreds of its own nodes or a combination of many nodes with excellent performance does not interfere with users' mining. Due to the very low mining quantity and short half-life, our coin is born with aristocratic value unlike other low-quality virtual currencies.
  Now is the time to use your power, one by one. Remember that all nodes have the right to be respected and have the right to succeed in mining!
  For the development of Ecoin, we are currently negotiating with talent from MIT's College of Engineering. A professor at Harvard University is also active in cooperation, and an undergraduate from Tokyo Institute of Technology also agreed to research this coin. In addition, the purchase team consists of 10 people, 4 from Asia and 6 from Europe, and personal information is not disclosed based on the voting results.
- 
+ Harvard and MIT top talent are gearing up for development!
  
  Based on the country where the most coins are mined, recovery will start first, and a separate team will be established to recover these coins.
  Even if less than 10 million are mined, trading is possible, but the coin will have to be registered on the exchange. Individuals can build exchanges. A separate recovery management team has been established to start its own recovery process based on the country that has mined the most coins out of 10 million coins.
