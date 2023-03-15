@@ -1,6 +1,9 @@
 https://www.lingcoin.biz/
 add node=119.56.163.13 (ringcoin.conf)
 ===========================================
+Technological evolution to be made together with talented graduates from Harvard and MIT!
+==========================================================================================
+
 
 Self-pricing was selected at $1000 each! From the point when 10 million are mined by users and customers, the price of this coin is fixed at $1000 each!Self-pricing was selected at $1000 each! From the point when 10 million are mined by users and customers, the price of this coin is fixed at $100 per coin! Of course, this is the minimum price, not the maximum price.
 =======================================================================================================================================================================
@@ -23,23 +26,18 @@ If you start worrying, it will be too late! Get ready to win a diamond ring wort
 
 Ringcoin is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
  - 2.5 ~20 minute block targets
- - subsidy halves in 17,777,777 coin (~8years)
+ - subsidy halves in 7,777,777 coin (~8years)
  -  ~7,777,7777total coin
- -  Our cryptocurrency was historically born with three significant halvings. In the 3rd halving, everything will change and be different from Bitcoin as well as its parent Litecoin. With each half-life, a new evolution begins!
 The rest is the same as Bitcoin.
  - 7.777coins per block
  These coins are intentionally issued with lower denominations to prove that even lower denominations can have value.
  DO NOT EXCHANGE THIS COIN FOR PIZZA! We give you pizza! If anyone connects to a node and 48 hours pass, we will give you a weekly pizza voucher through a lottery!
  In addition to the coins pre-mined by the manager, if you mine 10 million, these coins will all be self-purchased at $1000 each.
  These coins are designed to be linked to 1000 USD each, and currently you can receive 7700 USD if you succeed in mining once.
- It doesn't mention that it's possible. If 10 million coins are mined by customers and users, the minimum price of this coin is unconditionally fixed at $1000 per coin.All volumes circulating on the exchange are excluded from all events based on fair procedures.
+ It doesn't mention that it's possible. If 10 million coins are mined by customers and users, the minimum price of this coin is unconditionally fixed at $1000 per coin.All volumes circulaHarvard and MIT top talent are gearing up for development!ting on the exchange are excluded from all events based on fair procedures.
  Our coin can achieve its goal faster as more users access it.
 It would be very difficult to achieve our goal if we monopolized our coin by accident.
 Keep in mind that in order to achieve your goals together, you will need to gather more colleagues and build a more stable network and it will work! Additional coins will be paid to public relations ambassadors and referrals who promote this coin!
- There are investors who have promised to buy, and a mining environment that guarantees stable profits is also created. In Woori Coin, a supercomputer with hundreds of its own nodes or a combination of many nodes with excellent performance does not interfere with users' mining. Due to the very low mining quantity and short half-life, our coin is born with aristocratic value unlike other low-quality virtual currencies.
- Now is the time to use your power, one by one. Remember that all nodes have the right to be respected and have the right to succeed in mining!
- For the development of Ecoin, we are currently negotiating with talent from MIT's College of Engineering. A professor at Harvard University is also active in cooperation, and an undergraduate from Tokyo Institute of Technology also agreed to research this coin. In addition, the purchase team consists of 10 people, 4 from Asia and 6 from Europe, and personal information is not disclosed based on the voting results.
- Harvard and MIT top talent are gearing up for development!
  
  Based on the country where the most coins are mined, recovery will start first, and a separate team will be established to recover these coins.
  Even if less than 10 million are mined, trading is possible, but the coin will have to be registered on the exchange. Individuals can build exchanges. A separate recovery management team has been established to start its own recovery process based on the country that has mined the most coins out of 10 million coins.
@@ -109,8 +107,6 @@ After downloading and installing the open source, create a new file in the .ring
  in the contents, save and restart your wallet to connect to our node! The administrator will stop mining immediately when the first accessor appears, and will not be involved in mining anymore. It will only connect to maintain the node.
 Our coin intentionally contains the most included number 7 in the source code. A special prize is given to those who look at the source code of our coin and guess how many 7s there are!
 
-As we now see the growth of Litecoin and many cryptocurrencies, we know that cryptocurrencies are no longer worthless. Someone has to move beyond Bitcoin. And in that attempt, our virtual currency wants to evolve once more. This is everyone's wish, and one day someone will do it. Preparation for this challenge takes a lot. And we need enough time and more people's awareness. We must prepare to make it together. Are you ready to take up this gauntlet?
-Now we have everything ready. Our virtual currency will prove that virtual money can play a more active role in all industries.
 
 Guidance on payment rules
  The transaction must not be due to fraud or intentional concealment. The detailed payment history must be stored as a video or photo and recognized as a normal transaction. Payment after reviewing whether the payment fact is false or manipulated. If confirmed as true after review, a separate Hall of Fame is created on the coin main page and permanently preserved.There must be no manipulation in the transaction history, and transfer records must be left to prove the transaction.
