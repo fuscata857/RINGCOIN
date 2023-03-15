@@ -105,6 +105,7 @@ After downloading and installing the open source, create a new file in the .ring
 Our coin intentionally contains the most included number 7 in the source code. A special prize is given to those who look at the source code of our coin and guess how many 7s there are!
 
 As we now see the growth of Litecoin and many cryptocurrencies, we know that cryptocurrencies are no longer worthless. Someone has to move beyond Bitcoin. And in that attempt, our virtual currency wants to evolve once more. This is everyone's wish, and one day someone will do it. Preparation for this challenge takes a lot. And we need enough time and more people's awareness. We must prepare to make it together. Are you ready to take up this gauntlet?
+Now we have everything ready. Our virtual currency will prove that virtual money can play a more active role in all industries.
 
 Guidance on payment rules
  The transaction must not be due to fraud or intentional concealment. The detailed payment history must be stored as a video or photo and recognized as a normal transaction. Payment after reviewing whether the payment fact is false or manipulated. If confirmed as true after review, a separate Hall of Fame is created on the coin main page and permanently preserved.There must be no manipulation in the transaction history, and transfer records must be left to prove the transaction.
