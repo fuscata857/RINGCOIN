@@ -25,6 +25,7 @@ Ringcoin is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
  - 2.5 ~20 minute block targets
  - subsidy halves in 17,777,777 coin (~8years)
  -  ~7,777,7777total coin
+ -  Our cryptocurrency was historically born with three significant halvings. In the 3rd halving, everything will change and be different from Bitcoin as well as its parent Litecoin. With each half-life, a new evolution begins!
 The rest is the same as Bitcoin.
  - 7.777coins per block
  These coins are intentionally issued with lower denominations to prove that even lower denominations can have value.
