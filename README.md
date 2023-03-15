@@ -23,7 +23,7 @@ If you start worrying, it will be too late! Get ready to win a diamond ring wort
 
 Ringcoin is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
  - 2.5 ~20 minute block targets
- - subsidy halves in 7,777,777 coin (~8years)
+ - subsidy halves in 17,777,777 coin (~8years)
  -  ~7,777,7777total coin
 The rest is the same as Bitcoin.
  - 7.777coins per block
