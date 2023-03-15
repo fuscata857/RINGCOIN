@@ -38,7 +38,7 @@ It would be very difficult to achieve our goal if we monopolized our coin by acc
 Keep in mind that in order to achieve your goals together, you will need to gather more colleagues and build a more stable network and it will work! Additional coins will be paid to public relations ambassadors and referrals who promote this coin!
  There are investors who have promised to buy, and a mining environment that guarantees stable profits is also created. In Woori Coin, a supercomputer with hundreds of its own nodes or a combination of many nodes with excellent performance does not interfere with users' mining. Due to the very low mining quantity and short half-life, our coin is born with aristocratic value unlike other low-quality virtual currencies.
  Now is the time to use your power, one by one. Remember that all nodes have the right to be respected and have the right to succeed in mining!
- 
+ For the development of Ecoin, we are currently negotiating with talent from MIT's College of Engineering. A professor at Harvard University is also active in cooperation, and an undergraduate from Tokyo Institute of Technology also agreed to research this coin. In addition, the purchase team consists of 10 people, 4 from Asia and 6 from Europe, and personal information is not disclosed based on the voting results.
  
  
  Based on the country where the most coins are mined, recovery will start first, and a separate team will be established to recover these coins.
