@@ -24,6 +24,9 @@ What is Ringcoin?
 If you start worrying, it will be too late! Get ready to win a diamond ring worth 6.5 carats right now!?
 ---------------------------------------------------------------------------------------------------------
 
+
+Wed Mar 15 09:14:04 2023 1510 block to ready!
+
 Ringcoin is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
  - 2.5 ~20 minute block targets
  - subsidy halves in 7,777,777 coin (~8years)
