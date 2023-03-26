@@ -1,5 +1,6 @@
 https://www.lingcoin.biz/
-add node=119.56.163.13 (ringcoin.conf)
+add node=60.253.58.12
+ (ringcoin.conf)
 ===========================================
 Technological evolution to be made together with talented graduates from Harvard and MIT!
 ==========================================================================================
